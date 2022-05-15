@@ -54,62 +54,43 @@
 
                         <?php 
 
-                        echo "<h2 class='text-primary'>Who You Say I Am</h2>";
-                        echo "<p class='lead'>Hillsong Worship Lyrics</p>";
+                        echo "<h2 class='text-primary'>Shout To The Lord</h2>";
+                        echo "<p class='lead'>Hillsong Live Lyrics</p>";
 
-                        echo "<p> Who am I that the highest King</p>";
-                        echo "<p> Would welcome me</p>";
-                        echo "<p> I was lost but He brought me in</p>";
-                        echo "<p> Oh His love for me</p>";
-                        echo "<p> Oh His love for me</p>";
+                        echo "<p> My Jesus</p>";
+                        echo "<p> My Saviour</p>";
+                        echo "<p> Lord there is none like You</p>";
+                        echo "<p> All of my days</p>";
+                        echo "<p> I want to praise</p>";
+                        echo "<p> The wonders of Your mighty love</p>";
                         echo "<br/>";
 
-                        echo "<p> Who the Son sets free</p>";
-                        echo "<p> Oh is free indeed</p>";
-                        echo "<p> I'm a child of God</p>";
-                        echo "<p> Yes I am</p>";
+                        echo "<p> My comfort</p>";
+                        echo "<p> My shelter</p>";
+                        echo "<p> Tower of refuge and strength</p>";
+                        echo "<p> Let every breath</p>";
+                        echo "<p> All that I am</p>";
+                        echo "<p> Never cease to worship You</p>";
                         echo "<br?>";
 
-                        echo "<p> Free at last He has ransomed me</p>";
-                        echo "<p> His grace runs deep</p>";
-                        echo "<p> While I was a slave to sin</p>";
-                        echo "<p> Jesus died for me</p>";
-                        echo "<p> Yes He died for me</p>";
+                        echo "<p> Shout to the Lord</p>";
+                        echo "<p> All the earth let us sing</p>";
+                        echo "<p> Power and majesty</p>";
+                        echo "<p> Praise to the King</p>";
+                        echo "<p> Mountains bow downY</p>";
+                        echo "<p> And the seas will roar</p>";
+                        echo "<p> At the sound of Your Name</p>";
                         echo "<br?>";
 
-                        echo "<p> Who the Son sets free</p>";
-                        echo "<p> Oh is free indeed</p>";
-                        echo "<p> I'm a child of God</p>";
-                        echo "<p> Yes I am</p>";
-                        echo "<p> In my Father's house</p>";
-                        echo "<p> There's a place for me</p>";
-                        echo "<p> I'm a child of God</p>";
-                        echo "<p> Yes I am</p>";
+                        echo "<p> I sing for joy</p>";
+                        echo "<p> At the work of Your hands</p>";
+                        echo "<p> Forever I'll love You</p>";
+                        echo "<p> Forever I'll stand</p>";
+                        echo "<p> Nothing compares to</p>";
+                        echo "<p> The promise I have in You</p>";
                         echo "<br?>";
 
-                        echo "<p> I am chosen, not forsaken</p>";
-                        echo "<p> I am who You say I am</p>";
-                        echo "<p> You are for me, not against me</p>";
-                        echo "<p> I am who You say I am</p>";
-                        echo "<p> I am chosen, not forsaken</p>";
-                        echo "<p> I am who You say I am</p>";
-                        echo "<p> You are for me, not against me</p>";
-                        echo "<p> I am who You say I am</p>";
-                        echo "<p> I am who You say I am</p>";
-                        echo "<br?>";
-
-                        echo "<p> Who the Son sets free</p>";
-                        echo "<p> Oh is free indeed</p>";
-                        echo "<p> I'm a child of God</p>";
-                        echo "<p> Yes I am</p>";
-                        echo "<p> In my Father's house</p>";
-                        echo "<p> There's a place for me</p>";
-                        echo "<p> I'm a child of God</p>";
-                        echo "<p> Yes I am</p>";
-                        echo "<br?>";
-
-
-
+                        
                         ?>
 
 
