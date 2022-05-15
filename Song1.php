@@ -54,96 +54,70 @@
 
                         <?php 
 
-                        echo "<h2 class='text-primary'>Oceans (Where Feet May Fail)</h2>";
+                        echo "<h2 class='text-primary'> Clean</h2>";
                         echo "<p class='lead'>Hillsong United Lyrics</p>";
 
-                        echo "<p> You call me out upon the waters</p>";
-                        echo "<p> The great unknown where feet may fail</p>";
-                        echo "<p> And there I find You in the mystery</p>";
-                        echo "<p> In oceans deep</p>";
-                        echo "<p> My faith will stand</p>";
+                        echo "<p> Precious blood has left me forgiven</p>";
+                        echo "<p> Pure like the whitest of snow</p>";
+                        echo "<p> Powerful to make sin and shame retreat</p>";
+                        echo "<p> This covenant is making me whole</p>";
                         echo "<br/>";
 
-                        echo "<p> And I will call upon Your name</p>";
-                        echo "<p> And keep my eyes above the waves</p>";
-                        echo "<p> When oceans rise</p>";
-                        echo "<p> My soul will rest in Your embrace</p>";
-                        echo "<p> For I am Yours and You are mine</p>";
+                        echo "<p> So I will rise</p>";
+                        echo "<p> And lift my head</p>";
+                        echo "<p> For by His mercy</p>";
+                        echo "<p> My life was spared</p>";
+                        echo "<p> The highest name</p>";
+                        echo "<p> Has set me free</p>";
+                        echo "<p> Because of Jesus</p>";
+                        echo "<p> My heart is clean</p>";
                         echo "<br?>";
 
-                        echo "<p> Your grace abounds in deepest waters</p>";
-                        echo "<p> Your sovereign hand</p>";
-                        echo "<p> Will be my guide</p>";
-                        echo "<p> Where feet may Fail</p>";
-                        echo "<p> And fear surrounds me</p>";
-                        echo "<p> You've never failed</p>";
-                        echo "<p> And You won't start now</p>";
+                        echo "<p> Purify my heart in Your presence</p>";
+                        echo "<p> Teach me to discover the joy</p>";
+                        echo "<p> Oh holiness that forms as you draw me close</p>";
+                        echo "<p> In You what was lost is restored</p>";
                         echo "<br/>";
 
-                        echo "<p> So I will call upon Your name</p>";
-                        echo "<p> And keep my eyes above the waves</p>";
-                        echo "<p> When oceans rise</p>";
-                        echo "<p> My soul will rest in Your embrace</p>";
-                        echo "<p> For I am Yours and You are mine</p>";
-                        echo "<p> And You are mine</p>";
-                        echo "<br/>";
+                        echo "<p> So I will rise</p>";
+                        echo "<p> And lift my head</p>";
+                        echo "<p> For by His mercy</p>";
+                        echo "<p> My life was spared</p>";
+                        echo "<p> The highest name</p>";
+                        echo "<p> Has set me free</p>";
+                        echo "<p> Because of Jesus</p>";
+                        echo "<p> My heart is clean</p>";
+                        echo "<br?>";
 
-                        echo "<p> Spirit lead me where my trust is without borders</p>";
-                        echo "<p> Let me walk upon the waters</p>";
-                        echo "<p> Wherever You would call me</p>";
-                        echo "<p> Take me deeper than my feet could ever wander</p>";
-                        echo "<p> And my faith will be made stronger</p>";
-                        echo "<p> In the presence of my Saviour</p>";				
-                        echo "<br/>";
+                        echo "<p> So I will rise</p>";
+                        echo "<p> And lift my head</p>";
+                        echo "<p> For by His mercy</p>";
+                        echo "<p> My life was spared</p>";
+                        echo "<p> The highest name</p>";
+                        echo "<p> Has set me free</p>";
+                        echo "<p> Because of Jesus</p>";
+                        echo "<p> My heart is clean</p>";
+                        echo "<br?>";
 
-                        echo "<p> Spirit lead me where my trust is without borders</p>";
-                        echo "<p> Let me walk upon the waters</p>";
-                        echo "<p> Wherever You would call me</p>";
-                        echo "<p> Take me deeper than my feet could ever wander</p>";
-                        echo "<p> And my faith will be made stronger</p>";
-                        echo "<p> In the presence of my Saviour</p>";				
-                        echo "<br/>";
+                        echo "<p> So I will rise</p>";
+                        echo "<p> And lift my head</p>";
+                        echo "<p> For by His mercy</p>";
+                        echo "<p> My life was spared</p>";
+                        echo "<p> The highest name</p>";
+                        echo "<p> Has set me free</p>";
+                        echo "<p> Because of Jesus</p>";
+                        echo "<p> My heart is clean</p>";
+                        echo "<br?>";
 
-                        echo "<p> Spirit lead me where my trust is without borders</p>";
-                        echo "<p> Let me walk upon the waters</p>";
-                        echo "<p> Wherever You would call me</p>";
-                        echo "<p> Take me deeper than my feet could ever wander</p>";
-                        echo "<p> And my faith will be made stronger</p>";
-                        echo "<p> In the presence of my Saviour</p>";				
-                        echo "<br/>";
-
-                        echo "<p> Spirit lead me where my trust is without borders</p>";
-                        echo "<p> Let me walk upon the waters</p>";
-                        echo "<p> Wherever You would call me</p>";
-                        echo "<p> Take me deeper than my feet could ever wander</p>";
-                        echo "<p> And my faith will be made stronger</p>";
-                        echo "<p> In the presence of my Saviour</p>";				
-                        echo "<br/>";
-
-                        echo "<p> Spirit lead me where my trust is without borders</p>";
-                        echo "<p> Let me walk upon the waters</p>";
-                        echo "<p> Wherever You would call me</p>";
-                        echo "<p> Take me deeper than my feet could ever wander</p>";
-                        echo "<p> And my faith will be made stronger</p>";
-                        echo "<p> In the presence of my Saviour</p>";				
-                        echo "<br/>";
-
-                        echo "<p> Spirit lead me where my trust is without borders</p>";
-                        echo "<p> Let me walk upon the waters</p>";
-                        echo "<p> Wherever You would call me</p>";
-                        echo "<p> Take me deeper than my feet could ever wander</p>";
-                        echo "<p> And my faith will be made stronger</p>";
-                        echo "<p> In the presence of my Saviour</p>";				
-                        echo "<br/>";
-
-                        echo "<p> IOh, Jesus, You're my God!</p>";
-
-                        echo "<p> I will call upon Your name</p>";
-                        echo "<p> Keep my eyes above the waves</p>";
-                        echo "<p> My soul will rest in Your embrace</p>";
-                        echo "<p> I am Yours and You are mine</p>";				
-                        echo "<br/>";
-
+                        echo "<p> So I will rise</p>";
+                        echo "<p> And lift my head</p>";
+                        echo "<p> For by His mercy</p>";
+                        echo "<p> My life was spared</p>";
+                        echo "<p> The highest name</p>";
+                        echo "<p> Has set me free</p>";
+                        echo "<p> Because of Jesus</p>";
+                        echo "<p> My heart is clean</p>";
+                        echo "<br?>";
 
                         ?>
 
@@ -163,3 +137,4 @@
     </body>
 </html>
 
+        
