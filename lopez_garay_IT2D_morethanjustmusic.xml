@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE songs [
+		<!ELEMENT songs (song)>
+		<!ELEMENT songs (title, composer, stanza)>
+
+		<!ELEMENT title (#PCDATA)>
+		<!ELEMENT composer (#PCDATA)>
+		<!ELEMENT stanza (#PCDATA)>
+
+]>
+
+<songs>
+	<song>
+		<title> Clean </title>
+		<composer> Hillsong United Lyrics </composer>
+		<stanza> 7 </stanza>
+	</song>
+
+	<song>
+		<title> I Surrender </title>
+		<composer> Hillsong Live Lyrics </composer>
+		<stanza> 12 </stanza>
+	</song>
+
+	<song>
+		<title> Hosanna </title>
+		<composer> Hillsong United Lyrics </composer>
+		<stanza> 11 </stanza>
+	</song>
+
+	<song>
+		<title> This I Believe (The Creed) </title>
+		<composer> Hillsong Worship Lyrics</composer>
+		<stanza> 14 </stanza>
+	</song>
+
+	<song>
+		<title> Mighty To Save </title>
+		<composer> Hillsong United Lyrics </composer>
+		<stanza> 7 </stanza>
+	</song>
+
+	<song>
+		<title> What A Beautiful Name </title>
+		<composer> Hillsong Worship Lyrics </composer>
+		<stanza> 11 </stanza>
+	</song>
+
+	<song>
+		<title> At The Cross</title>
+		<composer> Hillsong Live Lyrics </composer>
+		<stanza> 12 </stanza>
+	</song>
+
+	<song>
+		<title> Still </title>
+		<composer> Hillsong Live Lyrics </composer>
+		<stanza> 10 </stanza>
+	</song>
+
+	<song>
+		<title> Who You Say I Am </title>
+		<composer> Hillsong Worship Lyrics </composer>
+		<stanza> 6 </stanza>
+	</song>
+
+	<song>
+		<title> Shout To The Lord </title>
+		<composer> Hillsong Live Lyrics </composer>
+		<stanza> 4 </stanza>
+	</song>
+
+	<song>
+		<title> King Of Kings </title>
+		<composer> Hillsong Worship Lyrics </composer>
+		<stanza> 7 </stanza>
+	</song>
+
+	<song>
+		<title> Jesus I Need You </title>
+		<composer> Hillsong Worship Lyrics </composer>
+		<stanza> 11 </stanza>
+	</song>
+
+	<song>
+		<title> Worthy Is The Lamb </title>
+		<composer> Hillsong Live Lyrics </composer>
+		<stanza> 3 </stanza>
+	</song>
+
+	<song>
+		<title> O Praise The Name (Anástasis) </title>
+		<composer> Hillsong Worship Lyrics </composer>
+		<stanza> 7 </stanza>
+	</song>
+
+	<song>
+		<title> Oceans (Where Feet May Fail) </title>
+		<composer> Hillsong United Lyrics </composer>
+		<stanza> 11 </stanza>
+	</song>
+</songs>
